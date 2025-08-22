@@ -4,7 +4,7 @@ A modern Flutter project with a clean and responsive UI for real-time messaging.
 
 📱 Screenshots
 💬 Chat Screen
-<p float="left"> <img src="screenshot/chat.jpeg" alt="Chat Screen" width="250"/> </p>
+<p float="left"> <img src="screenshot/home.jpeg" alt="Chat Screen" width="250"/> </p>
 🚀 Features
 
 ✅ Modern Flutter Chat UI
