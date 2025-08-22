@@ -8,7 +8,7 @@ A modern Flutter project with a clean UI for showcasing property listings (House
 
 ### 🏡 Home Screen  
 <p float="left">
-  <img src="screenshots/home.jpeg" alt="Home Screen 1" width="220"/>
+  <img src="screenshot/home.jpeg" alt="Home Screen 1" width="220"/>
   <img src="screenshots/2.jpeg" alt="Home Screen 2" width="220"/>
   <img src="screenshots/3.jpeg" alt="Home Screen 3" width="220"/>
 </p>
