@@ -1,4 +1,4 @@
-# 🏠 Trade App  
+#  Chat App   
 
 A modern Flutter project with a clean UI for showcasing property listings (House, Apartments, Flats, etc).  
 
@@ -8,17 +8,11 @@ A modern Flutter project with a clean UI for showcasing property listings (House
 
 ### 🏡 Home Screen  
 <p float="left">
-  <img src="screenshot/home.jpeg" alt="Home Screen 1" width="220"/>
-  <img src="screenshots/2.jpeg" alt="Home Screen 2" width="220"/>
-  <img src="screenshots/3.jpeg" alt="Home Screen 3" width="220"/>
+  <img src="screenshot/home.jpeg" alt="Home Screen 1" width="250"/>
+ 
 </p>
 
-### 📋 Details Screen  
-<p float="left">
-  <img src="screenshots/5.jpeg" alt="Details Screen 1" width="220"/>
-  <img src="screenshots/6.jpeg" alt="Details Screen 2" width="220"/>
-  <img src="screenshots/7.jpeg" alt="Details Screen 2" width="220"/>
-</p>
+
 
 ---
 
